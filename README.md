@@ -4,8 +4,11 @@ Create a web page using HTML with PHP  and connect it to the Xamp Apache server 
 let stat 
 1 Install Xampp on your local computer:  type in the terminal window brew install xampp for mac or ... or 
 2 optional, just go  Xamp website and download Xamp for your computer system version and install it on your computer  
-3 So the xamp folder will be installed in your local drive, computer or in the application memory where your apps are installed 
+3 So the xamp folder will be installed in your local drive, computer or in the application memory where your apps are installed
+
+
 4 Now  go to the Xamp folder, you will see these two more important folders for us (manager-osx folder and htdocs folder)
+
 5 Now,  to open Xamp,  click  on the Manager-osx folder icon it will open Xamp 
 6 Now, after you Open Xamp, you will Xamp dashboard  and then you  will see 3 buttons in the top centre of the Xamp dashboard  : (Welcome, manager server, server even )
 
