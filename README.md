@@ -19,7 +19,7 @@ let stat
 
 9 Now the server is running and the database is running too, 
 
-10  to see your Apache and Database dashboard (phpmyadmin), and create a database and tables  on this server, just  type in your browser or copy this link : https://locallhost/phpmyadmin  
+10  to see your Apache and Database dashboard (phpmyadmin), and create a database and tables  on this server, just  type in your browser or copy this link and paste it on browsers:http://localhost/phpmyadmin/
 
 
 11 Now, create your web application page that you will connect to your database via PHP 
@@ -40,7 +40,7 @@ let stat
 
 18 Go to the Xamp dashboard and then click on the welcome button. You will see the button, it is called (go to application, go to application folder ) 
 
-19 click on go to Application, it will open your appliction on your local host browers.
+19 click on go to Application, it will open your appliction page that you created  on your local host browers.
 
 
 
