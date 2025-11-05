@@ -19,7 +19,7 @@ let stat
 
 9 Now the server is running and the database is running too, 
 
-10 so go see and create a database and tables  on this server, type in your browers https://locallhost/phpmyadmin  
+10  to see your Apache and Database dashboard (phpmyadmin), and create a database and tables  on this server, just  type in your browser or copy this link : https://locallhost/phpmyadmin  
 
 
 11 Now, create your web application page that you will connect to your database via PHP 
